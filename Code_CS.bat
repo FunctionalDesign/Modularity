@@ -2,7 +2,7 @@
 
 set cesharp_parent_folder=Code\CryManaged
 set cesharp_folder=%cesharp_parent_folder%\CESharp
-set vssln=Code\SampleApp.sln
+set vssln=Code\Modularity.sln
 
 set projectcfg=project.cfg
 if not exist "%projectcfg%" (
